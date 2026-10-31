@@ -1,0 +1,9 @@
+COURSES
+X
+Y
+Z
+
+PREREQUISITES
+X Y
+Y Z
+Z X

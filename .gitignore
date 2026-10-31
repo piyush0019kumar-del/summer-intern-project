@@ -1,0 +1,11 @@
+scheduler
+scheduler.exe
+*.o
+*.obj
+*.exe
+timetable.txt
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.bak

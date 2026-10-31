@@ -1,0 +1,9 @@
+Generated Course Order:
+DSA -> OOP -> DBMS -> OS -> CN
+
+Generated Timetable:
+Slot 1: DSA
+Slot 2: OOP
+Slot 3: DBMS
+Slot 4: OS
+Slot 5: CN
